@@ -1,0 +1,8 @@
+[package]
+name = "parser_file"
+version = "0.1.0"
+edition = "2021"
+authors = ["michal.t.szymanski@gmail.com"]
+description = "Parsing file"
+license = "MIT OR Apache-2.0"
+[dependencies]
