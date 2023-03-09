@@ -6,3 +6,4 @@ authors = ["michal.t.szymanski@gmail.com"]
 description = "Parsing file"
 license = "MIT OR Apache-2.0"
 [dependencies]
+exitcode = "1.1.2"
